@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #222;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  border-radius: 6px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
